@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Local credentials
+credentials/service_account.json
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# Environment files
+.env
